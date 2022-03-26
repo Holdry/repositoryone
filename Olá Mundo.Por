@@ -2,6 +2,7 @@ programa
 { 
 funcao inicio()
 {
-escreva("Olá Mundo")
+cadeia nome = Holdry
+escreva("Olá ", nome)
 }
 }
